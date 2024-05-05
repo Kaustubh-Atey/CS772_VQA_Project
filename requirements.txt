@@ -1,0 +1,4 @@
+PIL
+streamlit
+torch
+transformers
